@@ -1,0 +1,7 @@
+{
+  "name": "yarn-bug-report",
+  "packageManager": "yarn@4.14.1",
+  "workspaces": [
+    "packages/*"
+  ]
+}

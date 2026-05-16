@@ -1,0 +1,9 @@
+{
+  "name": "@yarn-bug-report/b",
+  "version": "0.0.1",
+  "description": "b Library",
+  "type": "module",
+  "dependencies": {
+    "@yarn-bug-report/a": "workspace:^"
+  }
+}

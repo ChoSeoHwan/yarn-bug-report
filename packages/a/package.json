@@ -1,0 +1,12 @@
+{
+  "name": "@yarn-bug-report/a",
+  "version": "0.0.1",
+  "description": "a Library",
+  "type": "module",
+  "devDependencies": {
+    "lodash": "^4.18.1"
+  },
+  "peerDependencies": {
+    "lodash": "*"
+  }
+}
